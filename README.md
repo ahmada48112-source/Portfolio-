@@ -51,7 +51,7 @@ start index.html      # Windows
 **GitHub Pages**
 1. Push `index.html` to a repository (e.g. `arshad-ahmad0.github.io` for a user site, or any repo for a project site).
 2. In the repo, go to **Settings → Pages**, set the source branch to `main` and folder to `/root`.
-3. Your site will be live at `https://<username>.github.io/<repo-name>/` 🎉
+3. Your site will be live at `https://ahmada48112-source.github.io/Portfolio-/` 🎉
 
 ## 📬 Contact
 
