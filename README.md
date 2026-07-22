@@ -3,7 +3,7 @@
 
 A single-page portfolio website built to showcase my work as an aspiring Data Analyst — projects, certifications, internship experience, and skills, presented with a dashboard-inspired design.
 
-**🔗 Live file:** `index.html` (open directly in any browser, or deploy with GitHub Pages / Netlify / Vercel)
+
 
 ---
 
